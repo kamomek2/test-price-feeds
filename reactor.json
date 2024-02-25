@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "kamomek2",
+    "repo": "test-price-feeds",
+    "branch": "master"
+  },
+  "name": "test-price-feeds",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1003
+}
